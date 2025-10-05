@@ -1,0 +1,8 @@
+name: GriefPreventionExpansion
+version: '${project.version}'
+main: com.pixar02.papi.expansion.GriefPreventionExpansion
+api-version: '1.13'
+author: pixar02
+description: PlaceholderAPI expansion for GriefPrevention
+website: https://github.com/pixar02/GriefPrevention-Expansion
+softdepend: [PlaceholderAPI, GriefPrevention]
